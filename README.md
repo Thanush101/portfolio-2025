@@ -20,6 +20,3 @@ You can deploy this project to any static hosting service of your choice (Vercel
 
 Feel free to submit issues and pull requests to improve the project.
 
-### License
-
-This project is open source and available under the MIT license.
